@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdu77ah1
+- 👋 Hi, I’m Abdullah Mahmood
 - 👀 I’m interested in Data Science, Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning Web Development, Machine Learning and Android Development.
 - 💞️ I’m looking to collaborate on Data Science, Artificial Intelligence and Machine Learning projects.
